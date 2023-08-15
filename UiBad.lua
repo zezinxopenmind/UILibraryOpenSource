@@ -1,3 +1,5 @@
+local library = {}
+
 function library:CriarPagina(name)
 	local Fechar = Instance.new("TextButton")
 	local library_screen = Instance.new("ScreenGui")
